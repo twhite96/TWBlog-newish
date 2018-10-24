@@ -1,0 +1,16 @@
+---
+ID: 64
+title: Conditionals
+# tech
+author: Tiffany White
+post_date: 2015-01-24 22:12:43
+layout: post
+link: https://tiffanywhite.tech/tech/
+draft: false
+tags:
+  - Alice program
+  - conditionals
+  - javascript
+categories:
+  - General Updates
+---
