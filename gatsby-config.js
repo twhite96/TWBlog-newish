@@ -62,6 +62,15 @@ module.exports = {
         icon: `src/assets/icon.png`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        custom: {
+          families: ['Fira Code'],
+          urls: ['./src/assets/fonts/fira_code.css']
+        }
+      }
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: 'gatsby-plugin-typography',

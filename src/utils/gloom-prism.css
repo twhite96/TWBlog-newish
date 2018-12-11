@@ -10,7 +10,7 @@
 */
 code[class*="language-"],
 pre[class*="language-"] {
-  font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  font-family: 'Fira Code', monospace;
   font-size: 18px;
   line-height: 1.5;
   direction: ltr;
@@ -237,7 +237,7 @@ code.language-scss,
     color: #F92672 !important; }
 
 .gatsby-highlight-code-line {
-  background-color: rgba(59,42,68,92);
+  background-color: rgba(62,63,87,90);
   display: block;
   margin-right: -1em;
   margin-left: -1em;

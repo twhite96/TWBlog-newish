@@ -21,6 +21,9 @@ altonTheme.overrideThemeStyles = () => ({
     color: '#7a7a7a',
     borderLeft: '.25rem solid #06D7D9',
     fontStyle: 'italic'
+  },
+  'pre, code': {
+    fontFamily: 'Fira Code'
   }
 })
 

@@ -1,6 +1,6 @@
-# overreacted.io
+# test-trwblog
 
-My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
+My personal blog. [Forked from Dan Abramov's overreacted](https://github.com/gaearon/overreacted.io). Syntax theme based on [Luis Ramirez Gloom PrismJS Theme](https://github.com/luisramirez-m/prism-gloom-theme) with small tweaks.
 
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 
