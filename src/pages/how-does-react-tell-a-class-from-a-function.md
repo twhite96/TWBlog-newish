@@ -4,6 +4,8 @@ date: '2018-12-02'
 spoiler: We talk about classes, new, instanceof, prototype chains, and API design.
 ---
 
+> This post is written by [Dan Abramov](https://twitter.com/dan_abramov)
+
 Consider this `Greeting` component which is defined as a function:
 
 ```js
@@ -198,7 +200,7 @@ function Person(name) {
 
 new Person('Fred'); // ✅ Okay
 Person('George');   // 🔴 Can’t call class as a function
-``` 
+```
 
 You might have seen code like this in your bundle. That’s what all those `_classCallCheck` functions do. (You can reduce the bundle size by opting into the “loose mode” without no checks but this might complicate your eventual transition to real native classes.)
 
@@ -464,7 +466,7 @@ let greeting = new Greeting();
 console.log(greeting instanceof Greeting); // true
 // greeting (🕵️‍ We start here)
 //   .__proto__ → Greeting.prototype (✅ Found it!)
-//     .__proto__ → React.Component.prototype 
+//     .__proto__ → React.Component.prototype
 //       .__proto__ → Object.prototype
 
 console.log(greeting instanceof React.Component); // true
@@ -482,7 +484,7 @@ console.log(greeting instanceof Object); // true
 console.log(greeting instanceof Banana); // false
 // greeting (🕵️‍ We start here)
 //   .__proto__ → Greeting.prototype
-//     .__proto__ → React.Component.prototype 
+//     .__proto__ → React.Component.prototype
 //       .__proto__ → Object.prototype (🙅‍ Did not find it!)
 ```
 
@@ -522,7 +524,7 @@ console.log(Greeting.isReactClass); // ✅ Yes
 
 However, some class implementations we wanted to target [did not](https://github.com/scala-js/scala-js/issues/1900) copy static properties (or set the non-standard `__proto__`), so the flag was getting lost.
 
-This is why React [moved](https://github.com/facebook/react/pull/5021) this flag to `React.Component.prototype`: 
+This is why React [moved](https://github.com/facebook/react/pull/5021) this flag to `React.Component.prototype`:
 
 ```js
 // Inside React

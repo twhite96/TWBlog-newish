@@ -14,6 +14,13 @@ altonTheme.overrideThemeStyles = () => ({
   'h1': {
     marginTop: '2rem',
     marginBottom: '2rem'
+  },
+  'blockquote': {
+    padding: '.5rem 1rem',
+    margin: '.8rem 0',
+    color: '#7a7a7a',
+    borderLeft: '.25rem solid #06D7D9',
+    fontStyle: 'italic'
   }
 })
 
