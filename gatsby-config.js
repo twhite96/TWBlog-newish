@@ -28,6 +28,12 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-remark-embed-spotify",
+            options: {
+              height: 600 // default is 400
+            }
+          },
+          {
             resolve: "gatsby-remark-embed-video",
             options: {
               width: 800,
