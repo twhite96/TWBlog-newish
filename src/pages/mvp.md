@@ -44,10 +44,8 @@ An MVP helps new developers fill their portfolios with meaningful projects. This
 
 You can always *iterate* on the MVP instead of trying to perfect a project: no software project is perfect. You might as well *ship*.
 
-{% notice primary %}
-*Real artists ship*.
-          —Steve Jobs
-{% endnotice %}
+> *Real artists ship*.
+          > —Steve Jobs
 
 ## Pick an MVP and Open Source It
 
