@@ -1,6 +1,6 @@
 ---
 ID: 302
-title: 'This Developer&#8217;s Journey ep.8'
+title: This Developer's Journey ep.8
 author: Tiffany White
 date: "2015-06-07"
 layout: post

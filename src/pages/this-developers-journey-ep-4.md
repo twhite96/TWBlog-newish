@@ -1,6 +1,6 @@
 ---
 ID: 240
-title: 'This Developer&#8217;s Journey ep. 4'
+title: This Developer's Journey ep. 4
 # this-developers-journey-ep-4
 author: Tiffany White
 date: "2015-05-02"

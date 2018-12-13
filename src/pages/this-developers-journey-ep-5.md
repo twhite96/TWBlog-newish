@@ -1,6 +1,6 @@
 ---
 ID: 245
-title: "This Developer's Journey, ep. 5 PLUS I AM BUILD!"
+title: This Developer's Journey, ep. 5 PLUS I AM BUILD!
 author: Tiffany White
 date: "2015-05-10"
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 344
-title: 'This Developer's Journey ep.10'
+title: This Developer's Journey ep.10
 author: Tiffany White
 date: "2015-06-19"
 layout: post
