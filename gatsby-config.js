@@ -4,6 +4,9 @@ module.exports = {
     author: 'Tiffany White',
     description: 'Technical Blog by Tiffany White',
     siteUrl: 'https://tiffanywhite.tech',
+    social: {
+      twitter: '@TiffanyW_412',
+    },
   },
   pathPrefix: '/',
   plugins: [
@@ -23,6 +26,16 @@ module.exports = {
             options: {
               maxWidth: 590,
             },
+          },
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true //Optional: Disable insertion of <style> border: 0
+            }
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
@@ -49,6 +62,7 @@ module.exports = {
         trackingId: `UA-130227707-1`,
       },
     },
+    `gatsby-plugin-twitter`,
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,

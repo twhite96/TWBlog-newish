@@ -1,12 +1,10 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import get from 'lodash/get'
+import Helmet from 'react-helmet'
 
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
-import SEO from '../components/SEO'
-import Footer from '../components/Footer'
-import { formatReadingTime } from '../utils/helpers'
 import { rhythm } from '../utils/typography'
 
 class BlogIndex extends React.Component {
@@ -20,7 +18,11 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO />
+        <Helmet
+          htmlAttributes={{ lang: 'en' }}
+          meta={[{ name: 'description', content: siteDescription }]}
+          title={siteTitle}
+        />
         <Bio />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
@@ -35,17 +37,11 @@ class BlogIndex extends React.Component {
                   {title}
                 </Link>
               </h3>
-              <small>
-                {node.frontmatter.date}
-                {` • ${formatReadingTime(node.timeToRead)}`}
-              </small>
-              <p
-                dangerouslySetInnerHTML={{ __html: node.frontmatter.spoiler }}
-              />
+              <small>{node.frontmatter.date}</small>
+              <p dangerouslySetInnerHTML={{ __html: node.frontmatter.spoiler }} />
             </div>
           )
         })}
-        <Footer />
       </Layout>
     )
   }
@@ -67,9 +63,8 @@ export const pageQuery = graphql`
           fields {
             slug
           }
-          timeToRead
           frontmatter {
-            date(formatString: "DD MMMM YYYY")
+            date(formatString: "MMMM DD, YYYY")
             title
             spoiler
           }

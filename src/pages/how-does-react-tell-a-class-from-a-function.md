@@ -1,6 +1,6 @@
 ---
 title: How Does React Tell a Class from a Function?
-date: '2018-12-02'
+date:: '2018-12-02'
 spoiler: We talk about classes, new, instanceof, prototype chains, and API design.
 ---
 
@@ -553,3 +553,12 @@ In my experience, that’s often the case with library APIs. For an API to be si
 **If the final API is successful, _its users_ never have to think about this process.** Instead they can focus on creating apps.
 
 But if you’re also curious... it’s nice to know how it works.
+
+---
+
+### Sign Up for the Newsletter. No spam. I hate that, too.
+
+<iframe scrolling="no" width="600 !important" height="220px" style="border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
+
+---
+<a href="https://www.buymeacoffee.com/twhitedev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>

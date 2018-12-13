@@ -4,12 +4,13 @@ import altonTheme from 'typography-theme-alton'
 altonTheme.overrideThemeStyles = () => ({
   a: {
     color: '#06D7D9',
+    // textDecoration: 'underline',
   },
   'a.gatsby-resp-image-link': {
     boxShadow: 'none',
   },
   'p': {
-    fontSize: '.8vw'
+    fontSize: '1.3rem'
   },
   'h1': {
     marginTop: '2rem',

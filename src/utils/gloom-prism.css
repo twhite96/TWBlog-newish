@@ -189,6 +189,10 @@ code.language-scss,
 .language-html .token .tag {
   color: #FF6F9F; }
 
+  .language-java .token.entity {
+    color: #6DFEDF !important; }
+    .language-java .token.function {
+      color: #c4b9fe !important; }
 /*
 * Lenguage PHP
 */
@@ -223,6 +227,9 @@ code.language-scss,
 .language-js .token.variable {
   color: #FF6F9F; }
 
+  .language-java .token.variable {
+  color: #FF6F9F; }
+
 /*
 * Lenguage Bash
 */
@@ -237,6 +244,11 @@ code.language-scss,
 .language-python {
   color: #fff !important; }
   .language-python .token.keyword {
+    color: #F92672 !important; }
+
+.language-java {
+  color: #fff !important; }
+  .language-java .token.keyword {
     color: #F92672 !important; }
 
 .gatsby-highlight-code-line {
