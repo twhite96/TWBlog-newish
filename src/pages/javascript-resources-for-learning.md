@@ -18,7 +18,7 @@ categories: [ ]
 
 <p><a href="https://medium.com/javascript-scene">JavaScript Scene</a>: Eric Elliott is a opinionated but well know figure in the JavaScript community. He runs the Medium publication JavaScript Scene which is a rich resource of JS content and strategies.</p>
 
-<p><a href="http://shop.oreilly.com/category/get/kyle-simpson-kit.do">YDKJS</a>: the YDKJS series or, You Don’t Know JavaScript series, is probably the best series of books on the topic of JavaScript available. <a href="https://twitter.com/getify">Kyle Simpson</a> is the author and he knows his stuff. Pick up <em>all</em> the books. You can buy them or read them on GitHub.</p>
+<p><a href="https://shop.oreilly.com/category/get/kyle-simpson-kit.do">YDKJS</a>: the YDKJS series or, You Don’t Know JavaScript series, is probably the best series of books on the topic of JavaScript available. <a href="https://twitter.com/getify">Kyle Simpson</a> is the author and he knows his stuff. Pick up <em>all</em> the books. You can buy them or read them on GitHub.</p>
 
 <h2>List Your Go-Tos</h2>
 

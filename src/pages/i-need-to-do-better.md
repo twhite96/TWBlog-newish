@@ -16,7 +16,7 @@ categories:
 ---
 
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg"><img class="alignnone size-full wp-image-378" src="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg" alt="Desktop.jpg" width="600" height="400" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg"><img class="alignnone size-full wp-image-378" src="https://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg" alt="Desktop.jpg" width="600" height="400" /></a>
 
 For the record, I **do** code. I sit down, some time during the week, and knock out just one Codecademy challenge. This has been of late. I am not working hard enough, I am not grinding hard enough and I am trying to figure out why.
 
@@ -26,18 +26,18 @@ I will have Airmail open and that red badge will pop up and I will look at the e
 
 I see my Code Newbie compatriots working their asses off, knocking down code problems, doing code kata on codewars. I am envious. I have a lot going on and priorities need to be set. First, it starts with my calendar:
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg"><img class="alignnone size-full wp-image-379" src="http://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg" alt="BusyCal.jpg" width="1000" height="562" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg"><img class="alignnone size-full wp-image-379" src="https://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg" alt="BusyCal.jpg" width="1000" height="562" /></a>
 
 I deleted **A LOT** of fluff and old commitments. I tried to streamline what I do and when. No, I will not code for 8 hours a day. Three days a week I must get to the gym. This is imperative. I have time to read, code and blog, and record podcasts and edit them. I have to scale back screencasting as it is time intensive and I don't have lots of time. I guess I do, but I need to prioritize it. I block out time for email and **that is the only time**. I will get to bed earlier (I really need to do this anyway as class starts in a month and a half and I have a recitation at 11 am, being an hour away from class). I will get up earlier. I will **SAIC** (Sit ass in chair) and code after trying to get awake.
 
 I have a time to read and a time to screw off. I feel really committed to my Pirates but having the TV off, which it is most of time, is key.
 
-I used to write these same types of posts when I was a writer. A lot of it is fear of success. If you listened to my Code &amp; Supply episode which you can find [here](http://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white), you'll know my story. Being a success once and failing is a big monkey on my back that I am trying to shake.
+I used to write these same types of posts when I was a writer. A lot of it is fear of success. If you listened to my Code &amp; Supply episode which you can find [here](https://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white), you'll know my story. Being a success once and failing is a big monkey on my back that I am trying to shake.
 
 
 
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg"><img class="alignnone size-full wp-image-378" src="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg" alt="Desktop.jpg" width="600" height="400" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg"><img class="alignnone size-full wp-image-378" src="https://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg" alt="Desktop.jpg" width="600" height="400" /></a>
 
 For the record, I **do** code. I sit down, some time during the week, and knock out just one Codecademy challenge. This has been of late. I am not working hard enough, I am not grinding hard enough and I am trying to figure out why.
 
@@ -47,13 +47,13 @@ I will have Airmail open and that red badge will pop up and I will look at the e
 
 I see my Code Newbie compatriots working their asses off, knocking down code problems, doing code kata on codewars. I am envious. I have a lot going on and priorities need to be set. First, it starts with my calendar:
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg"><img class="alignnone size-full wp-image-379" src="http://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg" alt="BusyCal.jpg" width="1000" height="562" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg"><img class="alignnone size-full wp-image-379" src="https://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg" alt="BusyCal.jpg" width="1000" height="562" /></a>
 
 I deleted **A LOT** of fluff and old commitments. I tried to streamline what I do and when. No, I will not code for 8 hours a day. Three days a week I must get to the gym. This is imperative. I have time to read, code and blog, and record podcasts and edit them. I have to scale back screencasting as it is time intensive and I don't have lots of time. I guess I do, but I need to prioritize it. I block out time for email and **that is the only time**. I will get to bed earlier (I really need to do this anyway as class starts in a month and a half and I have a recitation at 11 am, being an hour away from class). I will get up earlier. I will **SAIC** (Sit ass in chair) and code after trying to get awake.
 
 I have a time to read and a time to screw off. I feel really committed to my Pirates but having the TV off, which it is most of time, is key.
 
-I used to write these same types of posts when I was a writer. A lot of it is fear of success. If you listened to my Code &amp; Supply episode which you can find [here](http://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white), you'll know my story. Being a success once and failing is a big monkey on my back that I am trying to shake.
+I used to write these same types of posts when I was a writer. A lot of it is fear of success. If you listened to my Code &amp; Supply episode which you can find [here](https://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white), you'll know my story. Being a success once and failing is a big monkey on my back that I am trying to shake.
 
 
 

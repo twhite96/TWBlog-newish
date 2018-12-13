@@ -33,4 +33,4 @@ I am also not sure if I’ll hop on the *S01E01* bandwagon or not. Seems it is a
 
 ## On Developer on Fire
 
-I recorded an episode of [Developer of Fire](http://developeronfire.com/). It will be out sometime at the end of the month or beginning of next year.
+I recorded an episode of [Developer of Fire](https://developeronfire.com/). It will be out sometime at the end of the month or beginning of next year.

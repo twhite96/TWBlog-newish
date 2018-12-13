@@ -19,7 +19,7 @@ categories:
 ---
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-technology-science_520996.jpg" alt="Science!" width="554" height="312" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/06/wpid-technology-science_520996.jpg" alt="Science!" width="554" height="312" />
 
 (First, let me apologize for the glitch in these images on this page-- theme creator knows about the glitch (going on two months) and hasn't found a way to fix it. They float left no matter what I do, and all the custom CSS I've found to fix it doesn't do anything. I am looking for a temporary theme like this but it is hard to find what I am looking for).
 
@@ -49,7 +49,7 @@ Take a look at how I’m killing it. Here is my Trello board/checklist for this 
 
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-technology-science_520996.jpg" alt="Science!" width="554" height="312" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/06/wpid-technology-science_520996.jpg" alt="Science!" width="554" height="312" />
 
 (First, let me apologize for the glitch in these images on this page-- theme creator knows about the glitch (going on two months) and hasn't found a way to fix it. They float left no matter what I do, and all the custom CSS I've found to fix it doesn't do anything. I am looking for a temporary theme like this but it is hard to find what I am looking for).
 
@@ -80,4 +80,4 @@ Take a look at how I’m killing it. Here is my Trello board/checklist for this 
 
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Screenshot-2015-06-06-19.10.23.png" alt="Trello" width="519" height="292" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/06/wpid-Screenshot-2015-06-06-19.10.23.png" alt="Trello" width="519" height="292" />

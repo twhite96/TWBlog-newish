@@ -74,6 +74,6 @@ for the HTML and
 
 for the CSS would get the desired effect, which is a footer that looks like this:
 
-<img src="http://helloburgh.me/wp-content/uploads/2015/02/wpid-footer.png" alt="Minimal Web footer" />
+<img src="https://helloburgh.me/wp-content/uploads/2015/02/wpid-footer.png" alt="Minimal Web footer" />
 
 But it didn’t turn out like that. I am packing up a zip file and sending my horrendously indented code off to her. I have been at this the entire day, from 11 am to 6 PM. This is when being a developer tests all your mettle…

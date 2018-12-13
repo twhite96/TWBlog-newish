@@ -20,7 +20,7 @@ categories:
 
 &nbsp;
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg"><img class="alignnone  wp-image-387" src="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg" alt="Fake-Mac.jpg" width="675" height="450" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg"><img class="alignnone  wp-image-387" src="https://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg" alt="Fake-Mac.jpg" width="675" height="450" /></a>
 
 So I actually **did** go to bed and get up at a great hour, *but* I screwed off with the new Music update for a good hour. It cut into my coding time but I finally settled in around 1 PM, a full four hours after I woke up and one after I scheduled to code.
 
@@ -62,7 +62,7 @@ Feeling stupid much?
 
 &nbsp;
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg"><img class="alignnone  wp-image-387" src="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg" alt="Fake-Mac.jpg" width="675" height="450" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg"><img class="alignnone  wp-image-387" src="https://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg" alt="Fake-Mac.jpg" width="675" height="450" /></a>
 
 So I actually **did** go to bed and get up at a great hour, *but* I screwed off with the new Music update for a good hour. It cut into my coding time but I finally settled in around 1 PM, a full four hours after I woke up and one after I scheduled to code.
 

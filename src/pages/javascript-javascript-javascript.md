@@ -18,7 +18,7 @@ categories:
 ---
 
 
-<img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-js-logo-badge-256.png" alt="JS" />
+<img class=" alignright" src="https://helloburgh.me/wp-content/uploads/2015/06/wpid-js-logo-badge-256.png" alt="JS" />
 
 Free Code Camp, love. I really am in love with this site. I guess it’s kind of disingenuous– Free Code Camp outsources its JavaScript course (for beginners) to Codecademy. But I’ve built some pretty interesting games, felt the frustration of debugging (<strong>missing curly brackets search for 30 minutes</strong>. Seriously), and the rewarding feeling of building something small. I’ve taken lots of notes in <a href="https://itunes.apple.com/us/app/quiver-programmers-notebook/id866773894?mt=12">Quiver</a>, the notes app that can mix code, markdown, text, and LaTEX in one note (excellent resource). I plan on using Quiver as my main notes app for computer science classes.
 
@@ -111,7 +111,7 @@ Great week of learning so far. Back at it tonight.
 
 
 
-<img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-js-logo-badge-256.png" alt="JS" />
+<img class=" alignright" src="https://helloburgh.me/wp-content/uploads/2015/06/wpid-js-logo-badge-256.png" alt="JS" />
 
 Free Code Camp, love. I really am in love with this site. I guess it’s kind of disingenuous– Free Code Camp outsources its JavaScript course (for beginners) to Codecademy. But I’ve built some pretty interesting games, felt the frustration of debugging (<strong>missing curly brackets search for 30 minutes</strong>. Seriously), and the rewarding feeling of building something small. I’ve taken lots of notes in <a href="https://itunes.apple.com/us/app/quiver-programmers-notebook/id866773894?mt=12">Quiver</a>, the notes app that can mix code, markdown, text, and LaTEX in one note (excellent resource). I plan on using Quiver as my main notes app for computer science classes.
 

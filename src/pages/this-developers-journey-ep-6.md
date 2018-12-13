@@ -18,7 +18,7 @@ categories:
 ---
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
 
 In this episode I interview Mark Pearyer, father, student, developer and Code Newbie veteran. He shares his insights on coding, balance, and the hustle.
 
@@ -28,7 +28,7 @@ Marcus Pearyer links:
 
 <a href="https://twitter.com/marcusp619">Twitter</a>
 
-<a href="http://marcusp619.github.io">Blog</a>
+<a href="https://marcusp619.github.io">Blog</a>
 
 Other links:
 
@@ -39,7 +39,7 @@ Other links:
 
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
 
 In this episode I interview Mark Pearyer, father, student, developer and Code Newbie veteran. He shares his insights on coding, balance, and the hustle.
 
@@ -49,7 +49,7 @@ Marcus Pearyer links:
 
 <a href="https://twitter.com/marcusp619">Twitter</a>
 
-<a href="http://marcusp619.github.io">Blog</a>
+<a href="https://marcusp619.github.io">Blog</a>
 
 Other links:
 
@@ -61,4 +61,4 @@ Other links:
 
 
 
-<a href="http://happenapps.com">Quiver</a>
+<a href="https://happenapps.com">Quiver</a>

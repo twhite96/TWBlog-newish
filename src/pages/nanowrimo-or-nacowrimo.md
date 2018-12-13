@@ -19,7 +19,7 @@ categories:
 ---
 
 
-<img src="http://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg" alt="NaCoWriMo" />
+<img src="https://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg" alt="NaCoWriMo" />
 
 November, if you’re an internet savvy fiction writer, is NaNoWriMo, or National Novel Writing Month. As a writer in my previous life, I participated in NaNoWriMo several times. The objective is to write 50,000 words of a novel in <strong>one month</strong>. It’s <em>insanity personified</em>. I spent countless nights awake writing to get to 50,000 words and only ever “won” once. You win a certificate and some nice discounts from writing software people. The community is great as well.
 
@@ -32,7 +32,7 @@ Maybe I’ll thow in something good to the first person to complete NaCoWriMo, l
 
 
 
-<img src="http://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg" alt="NaCoWriMo" />
+<img src="https://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg" alt="NaCoWriMo" />
 
 November, if you’re an internet savvy fiction writer, is NaNoWriMo, or National Novel Writing Month. As a writer in my previous life, I participated in NaNoWriMo several times. The objective is to write 50,000 words of a novel in <strong>one month</strong>. It’s <em>insanity personified</em>. I spent countless nights awake writing to get to 50,000 words and only ever “won” once. You win a certificate and some nice discounts from writing software people. The community is great as well.
 

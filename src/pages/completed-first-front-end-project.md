@@ -18,7 +18,7 @@ categories:
 ---
 
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/front-end_masters.jpeg" alt="front-end" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/02/front-end_masters.jpeg" alt="front-end" />
 So I finished the first front-end project for Free Code Camp in a couple days. It doesn’t render really well on mobile. I can’t seem to get the button I have at the bottom to do the following with the jQuery I have:
 
 <pre class="lang:javascript decode:1 " >
@@ -40,7 +40,7 @@ I will probably work on it some more during the coming weeks.
 
 
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/front-end_masters.jpeg" alt="front-end" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/02/front-end_masters.jpeg" alt="front-end" />
 So I finished the first front-end project for Free Code Camp in a couple days. It doesn’t render really well on mobile. I can’t seem to get the button I have at the bottom to do the following with the jQuery I have:
 
 <pre class="lang:javascript decode:1 " >

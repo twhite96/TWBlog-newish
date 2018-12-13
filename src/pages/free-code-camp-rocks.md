@@ -22,7 +22,7 @@ categories:
 ---
 
 
-<img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png" alt="Freecode" />
+<img class=" alignright" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png" alt="Freecode" />
 
 So I’m checking out Free Code Camp and I LOVE IT. Knocking out their Codecademy challenges left and right.
 
@@ -33,7 +33,7 @@ Freecodecamp has been an awesome thing. There isn’t as much focus on HTML and 
 
 
 
-<img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png" alt="Freecode" />
+<img class=" alignright" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png" alt="Freecode" />
 
 So I’m checking out Free Code Camp and I LOVE IT. Knocking out their Codecademy challenges left and right.
 

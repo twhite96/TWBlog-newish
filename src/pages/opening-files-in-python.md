@@ -90,4 +90,4 @@ txt_again.read(). It will then read and print the contents of the file.
 print txt_again.read()
 </code></pre>
 
-<img src="http://helloburgh.me/wp-content/uploads/2015/04/wpid-reading_text_files_in_python.gif" alt="python_gif_3" />
+<img src="https://helloburgh.me/wp-content/uploads/2015/04/wpid-reading_text_files_in_python.gif" alt="python_gif_3" />

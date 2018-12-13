@@ -17,7 +17,7 @@ tags:
 categories:
   - Uncategorized
 ---
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-08-22.55.03.png" alt="jQuery_badge" width="302" height="245" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-08-22.55.03.png" alt="jQuery_badge" width="302" height="245" />
 
 So today I went over jQuery basics, documentation and a total disruption of what I learned on Free Code Camp and Codecademy.
 

@@ -17,7 +17,7 @@ categories:
 ---
 <h1></h1>
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo.png" alt="TDJ" width="448" height="448" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo.png" alt="TDJ" width="448" height="448" />
 
 New episode up.
 

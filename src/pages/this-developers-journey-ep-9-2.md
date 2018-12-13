@@ -18,7 +18,7 @@ categories:
 ---
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png" alt="Dev" width="391" height="391" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png" alt="Dev" width="391" height="391" />
 
 This week: What I’ve been doing this week (killing code, that’s what), women and minorities in tech and the fact that maybe there just isn’t any real interest in this in these demographics, and great news for this podcast and blog.
 
@@ -26,16 +26,16 @@ Show Notes:
 
 Women in Tech? Here are some articles on the topic.
 
-<a href="http://www.ere.net/2014/01/29/looking-for-women-it-professionals-stand-in-line/">Looking for Women IT Professionals? Stand in Line</a>
+<a href="https://www.ere.net/2014/01/29/looking-for-women-it-professionals-stand-in-line/">Looking for Women IT Professionals? Stand in Line</a>
 
-<a href="http://www.forbes.com/sites/adrianalopez/2015/03/06/making-the-technology-field-more-open-to-women/2/">Making the Technology Field More Open to Women</a>
+<a href="https://www.forbes.com/sites/adrianalopez/2015/03/06/making-the-technology-field-more-open-to-women/2/">Making the Technology Field More Open to Women</a>
 
 Code &amp; Supply is an AWESOME resource for Pittsburgh developers.
 
 
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png" alt="Dev" width="391" height="391" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png" alt="Dev" width="391" height="391" />
 
 This week: What I’ve been doing this week (killing code, that’s what), women and minorities in tech and the fact that maybe there just isn’t any real interest in this in these demographics, and great news for this podcast and blog.
 
@@ -43,9 +43,9 @@ Show Notes:
 
 Women in Tech? Here are some articles on the topic.
 
-<a href="http://www.ere.net/2014/01/29/looking-for-women-it-professionals-stand-in-line/">Looking for Women IT Professionals? Stand in Line</a>
+<a href="https://www.ere.net/2014/01/29/looking-for-women-it-professionals-stand-in-line/">Looking for Women IT Professionals? Stand in Line</a>
 
-<a href="http://www.forbes.com/sites/adrianalopez/2015/03/06/making-the-technology-field-more-open-to-women/2/">Making the Technology Field More Open to Women</a>
+<a href="https://www.forbes.com/sites/adrianalopez/2015/03/06/making-the-technology-field-more-open-to-women/2/">Making the Technology Field More Open to Women</a>
 
 Code &amp; Supply is an AWESOME resource for Pittsburgh developers.
 
@@ -53,4 +53,4 @@ Code &amp; Supply is an AWESOME resource for Pittsburgh developers.
 
 
 
-You can find out more about C&amp;S <a href="http://www.codeandsupply.co/">here</a>
+You can find out more about C&amp;S <a href="https://www.codeandsupply.co/">here</a>

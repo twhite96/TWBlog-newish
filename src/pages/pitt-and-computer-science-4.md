@@ -19,7 +19,7 @@ categories:
 ---
 <h1></h1>
 
-<img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/03/wpid-2014-09-08-15.49.47.gif" alt="Pitt!" />
+<img class=" alignright" src="https://helloburgh.me/wp-content/uploads/2015/03/wpid-2014-09-08-15.49.47.gif" alt="Pitt!" />
 
 So, for a roundabout update, I got my Commonwealth Diploma, for 30 college credits completed. The reason I needed this diploma and couldn’t use my high school diploma for admission to Pitt? Well, the fact I left my high school in Harrisburg to attend a sort of school for behavioral misfits was a problem because Harrisburg High School didn’t put the date: on my transcripts of my graduation. And when I called they had no record of me graduating. So essentially the problem was no one knew who the hell I was and so I needed to get the diploma to even stand a chance of getting into Pitt. I have my physical high school diploma but it was just too much <s>bureacracy</s> hassle for Pitt and all involved.
 

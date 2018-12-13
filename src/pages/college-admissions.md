@@ -14,7 +14,7 @@ tags:
 categories:
   - General Updates
 ---
-<img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/04/wpid-2014-09-08-15.49.47.gif" alt="the_school" />
+<img class=" alignright" src="https://helloburgh.me/wp-content/uploads/2015/04/wpid-2014-09-08-15.49.47.gif" alt="the_school" />
 
 Being a resident of Pittsburgh and all the companies here that hire tech talent (not to mention the startups coming in and the influx of tech companies expanding to the area) means there are opportunities to get a dev job and plenty of those opportunities. Unfortunately, majority of those hiring require a degree, from a university and not a community college.
 

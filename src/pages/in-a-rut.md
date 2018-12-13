@@ -42,9 +42,9 @@ But is on my Heroku server though the deployment is wonky-- says it's a node app
 
 I also spent considerable time trying to get a better looking terminal. Understanding my .bash_profile etc. So far, I have installed an espresso theme (I use [iTerm](https://www.iterm2.com/) as a terminal replacement):
 
-[caption id="attachment_404" align="aligncenter" width="674"]<a href="http://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg"><img class="wp-image-404 " src="http://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg" alt="" width="674" height="500" /></a> Pretty espresso theme and named tabs. SCORE![/caption]
+[caption id="attachment_404" align="aligncenter" width="674"]<a href="https://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg"><img class="wp-image-404 " src="https://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg" alt="" width="674" height="500" /></a> Pretty espresso theme and named tabs. SCORE![/caption]
 
-I also decided since I am doing all these projects I needed to name my terminal tabs. Shot out to [Saron](https://mobile.twitter.com/saronyitbarek) of [Code Newbie](http://www.codenewbie.org/) for showing us her **awesome** terminal during js-tuesday hangout.
+I also decided since I am doing all these projects I needed to name my terminal tabs. Shot out to [Saron](https://mobile.twitter.com/saronyitbarek) of [Code Newbie](https://www.codenewbie.org/) for showing us her **awesome** terminal during js-tuesday hangout.
 
 So I have everything at GitHub and CodePen. Here is the Pen:
 
@@ -76,9 +76,9 @@ But is on my Heroku server though the deployment is wonky-- says it's a node app
 
 I also spent considerable time trying to get a better looking terminal. Understanding my .bash_profile etc. So far, I have installed an espresso theme (I use [iTerm](https://www.iterm2.com/) as a terminal replacement):
 
-[caption id="attachment_404" align="aligncenter" width="674"]<a href="http://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg"><img class="wp-image-404 " src="http://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg" alt="" width="674" height="500" /></a> Pretty espresso theme and named tabs. SCORE![/caption]
+[caption id="attachment_404" align="aligncenter" width="674"]<a href="https://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg"><img class="wp-image-404 " src="https://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg" alt="" width="674" height="500" /></a> Pretty espresso theme and named tabs. SCORE![/caption]
 
-I also decided since I am doing all these projects I needed to name my terminal tabs. Shot out to [Saron](https://mobile.twitter.com/saronyitbarek) of [Code Newbie](http://www.codenewbie.org/) for showing us her **awesome** terminal during js-tuesday hangout.
+I also decided since I am doing all these projects I needed to name my terminal tabs. Shot out to [Saron](https://mobile.twitter.com/saronyitbarek) of [Code Newbie](https://www.codenewbie.org/) for showing us her **awesome** terminal during js-tuesday hangout.
 
 So I have everything at GitHub and CodePen. Here is the Pen:
 
@@ -86,4 +86,4 @@ So I have everything at GitHub and CodePen. Here is the Pen:
 
 
 
-[codepen_embed height="268" theme_id="0" slug_hash="KpRBzd" default_tab="result" user="twhite96"]See the Pen &lt;a href='http://codepen.io/twhite96/pen/KpRBzd/'&gt;Address Book&lt;/a&gt; by Tiffany White (&lt;a href='http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;) on &lt;a href='http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+[codepen_embed height="268" theme_id="0" slug_hash="KpRBzd" default_tab="result" user="twhite96"]See the Pen &lt;a href='https://codepen.io/twhite96/pen/KpRBzd/'&gt;Address Book&lt;/a&gt; by Tiffany White (&lt;a href='https://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]

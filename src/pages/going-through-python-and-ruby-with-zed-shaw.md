@@ -17,7 +17,7 @@ categories:
 You remember when I said I was going to do The Odin Project and Codecademy? Well, I have an even better solution.
 First off, let me say that learning HTML and CSS all day is great if you want to do web dev and that is what I want to do, <em>maybe</em>. I am finding that building apps and scripts is fun. The reason I am doing Python now is because of my Raspberry Pi. I wanted to program it this summer and I know very little Python so I looked for a good alternative to the Codecademy Python course which was just a fragmented bit of Python learning. I wasn’t grasping the concepts, nor was I being asked to think about the things I was learning.
 
-So I remembered fro Code Newbie Podcast <a href="http://twitter.com/zedshaw">Zed Shaw</a>. He had written a book called <a href="http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=sr_1_1?ie=UTF8&amp;qid=1428558596&amp;sr=8-1&amp;keywords=learn+python+the+hard+way">Learn Python the Hard Way</a> and offered it up for free as HTML on the book’s <a href="http://learnpythonthehardway.org/book/">website</a>. So I went. And I started. And I’m hooked.
+So I remembered fro Code Newbie Podcast <a href="https://twitter.com/zedshaw">Zed Shaw</a>. He had written a book called <a href="https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=sr_1_1?ie=UTF8&amp;qid=1428558596&amp;sr=8-1&amp;keywords=learn+python+the+hard+way">Learn Python the Hard Way</a> and offered it up for free as HTML on the book’s <a href="https://learnpythonthehardway.org/book/">website</a>. So I went. And I started. And I’m hooked.
 
 So what made it great? Study Drills. Enforcing the fact that you should <strong>type</strong> everything on the screen, use a text editor and not an IDE (which I was really tempted to do) and the questions he answers from previous students. You get to practice what you learn, to, by building little scripts on your own. Here is an example of a form script I wrote using Python, from exercise 11 Study Drill:
 
@@ -129,7 +129,7 @@ raw_input()
 
 This won’t format the user input as Python code and is used as a promt. So if you look about on the form I made, when run in terminal:
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/04/wpid-python_form.gif" alt="terminal_gif" width="625" height="416" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/04/wpid-python_form.gif" alt="terminal_gif" width="625" height="416" />
 
 You can see it prompts the user. Cool, huh?
 

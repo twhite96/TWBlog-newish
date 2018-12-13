@@ -18,7 +18,7 @@ categories:
 ---
 
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
 
 &nbsp;
 
@@ -28,7 +28,7 @@ categories:
 
 (Currently laying in bed, terrible sinus headache today, writing this on my iPad in [Editorial](https://appsto.re/us/UqWkO.i). If it's ridden with typos I'll fix them once I get up and head to my Mac).
 
-So, my Code Newbie pal and former guest on the podcast [Mark Pearyer (pronounced Pierre)](https://twitter.com/marcusp619) and I, as well as a few other Code Newbies are working on a hangman app. Mark presented this nice looking boilerplate for the app. He said that he made the boilerplate with [Yeoman generator](http://yeoman.io/). If you don't know what a boilerplate is check out this [article](https://en.m.wikipedia.org/wiki/Boilerplate_code).
+So, my Code Newbie pal and former guest on the podcast [Mark Pearyer (pronounced Pierre)](https://twitter.com/marcusp619) and I, as well as a few other Code Newbies are working on a hangman app. Mark presented this nice looking boilerplate for the app. He said that he made the boilerplate with [Yeoman generator](https://yeoman.io/). If you don't know what a boilerplate is check out this [article](https://en.m.wikipedia.org/wiki/Boilerplate_code).
 
 I sat down and watched the Yeoman intro [Yeoman intro video](https://youtube.com/watch?v=gKiaLSJW5xI) and immediately became excited about the possibilities for my own apps and websites.
 
@@ -54,7 +54,7 @@ So I'm sharing, again, what I'm listening to on Spotify. On the Code Newbie Disc
 
 
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
 
 &nbsp;
 
@@ -64,7 +64,7 @@ So I'm sharing, again, what I'm listening to on Spotify. On the Code Newbie Disc
 
 (Currently laying in bed, terrible sinus headache today, writing this on my iPad in [Editorial](https://appsto.re/us/UqWkO.i). If it's ridden with typos I'll fix them once I get up and head to my Mac).
 
-So, my Code Newbie pal and former guest on the podcast [Mark Pearyer (pronounced Pierre)](https://twitter.com/marcusp619) and I, as well as a few other Code Newbies are working on a hangman app. Mark presented this nice looking boilerplate for the app. He said that he made the boilerplate with [Yeoman generator](http://yeoman.io/). If you don't know what a boilerplate is check out this [article](https://en.m.wikipedia.org/wiki/Boilerplate_code).
+So, my Code Newbie pal and former guest on the podcast [Mark Pearyer (pronounced Pierre)](https://twitter.com/marcusp619) and I, as well as a few other Code Newbies are working on a hangman app. Mark presented this nice looking boilerplate for the app. He said that he made the boilerplate with [Yeoman generator](https://yeoman.io/). If you don't know what a boilerplate is check out this [article](https://en.m.wikipedia.org/wiki/Boilerplate_code).
 
 I sat down and watched the Yeoman intro [Yeoman intro video](https://youtube.com/watch?v=gKiaLSJW5xI) and immediately became excited about the possibilities for my own apps and websites.
 

@@ -16,7 +16,7 @@ categories:
 ---
 
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png" alt="Dev_logo" width="479" height="479" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png" alt="Dev_logo" width="479" height="479" />
 
 <h2>Show Notes</h2>
 
@@ -29,7 +29,7 @@ Not much to talk about today! But you can find relevant links to what I talked a
 
 
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png" alt="Dev_logo" width="479" height="479" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png" alt="Dev_logo" width="479" height="479" />
 
 <h2>Show Notes</h2>
 
@@ -43,4 +43,4 @@ Not much to talk about today! But you can find relevant links to what I talked a
 
 
 
-<a href="http://www.keyboardmaestro.com/main/">Keyboard Maestro</a>
+<a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro</a>

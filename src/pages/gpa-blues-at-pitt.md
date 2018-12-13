@@ -17,7 +17,7 @@ categories:
 ---
 
 
-<h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg" alt="GPA" /></h2>
+<h2><img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg" alt="GPA" /></h2>
 <blockquote>
 <blockquote>“Failure should be our teacher, not our undertaker. Failure is delay, not defeat. It is a temporary detour, not a dead end. Failure is something we can avoid only by saying nothing, doing nothing, and being nothing.” - Denis Waitley</blockquote>
 </blockquote>
@@ -31,7 +31,7 @@ I did read the chapters. I read them very quickly. Sometimes I had to read them 
 
 ## I Can Learn From This ##
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/IMG_0408.jpg" alt="Pain" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/IMG_0408.jpg" alt="Pain" />
 <blockquote>
 <blockquote>“If you don’t try at anything, you can’t fail… it takes back bone to lead the life you want” - Richard Yates</blockquote>
 </blockquote>
@@ -46,7 +46,7 @@ BigRigg told me the day of the final she knew what my issue was. She told me to 
 
 
 
-<h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg" alt="GPA" /></h2>
+<h2><img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg" alt="GPA" /></h2>
 <blockquote>
 <blockquote>“Failure should be our teacher, not our undertaker. Failure is delay, not defeat. It is a temporary detour, not a dead end. Failure is something we can avoid only by saying nothing, doing nothing, and being nothing.” - Denis Waitley</blockquote>
 </blockquote>
@@ -60,7 +60,7 @@ I did read the chapters. I read them very quickly. Sometimes I had to read them 
 
 ## I Can Learn From This ##
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/IMG_0408.jpg" alt="Pain" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/IMG_0408.jpg" alt="Pain" />
 <blockquote>
 <blockquote>“If you don’t try at anything, you can’t fail… it takes back bone to lead the life you want” - Richard Yates</blockquote>
 </blockquote>

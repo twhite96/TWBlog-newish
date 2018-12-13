@@ -15,7 +15,7 @@ tags:
 categories:
   - General Updates
 ---
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/09/wpid-WeBelievePittPanthers.jpg" alt="H2P!" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/09/wpid-WeBelievePittPanthers.jpg" alt="H2P!" />
 
 My first week of University was stinking hot. Seriously, a sweat soaked TA came to teach us absolutely nothing because it was our first day. She does our recitation.
 
@@ -56,6 +56,6 @@ public class Simple
 
 Quite simple, really. Looking forward to our first project. We have smaller activities we must do to build up to the whole.
 
-On another note, I will no longer be posting podcasts here. I have a new site you can find <a href="http://thisdevsjourney.com">here at This Developer’s Journey</a>.
+On another note, I will no longer be posting podcasts here. I have a new site you can find <a href="https://thisdevsjourney.com">here at This Developer’s Journey</a>.
 
 More updates coming.

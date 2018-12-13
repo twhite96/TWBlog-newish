@@ -20,7 +20,7 @@ categories:
 ---
 
 
-<h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg" alt="CS_classes" /></h2>
+<h2><img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg" alt="CS_classes" /></h2>
 <blockquote>
 <blockquote>“People are always blaming their circumstances for what they are. I don’t believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and if they can’t find them, make them.” ― George Bernard Shaw, <em>Mrs. Warren’s Profession</em></blockquote>
 </blockquote>
@@ -30,7 +30,7 @@ So about the Computer Science class.
 
 It was easy at first. Super easy. And then…it slammed me in the face like a bag of bricks swung at my head. I got really good grades on my first two projects, an A and B. But we only built pieces of programs. And then the 3rd project.
 <h3>Project 3, My Nemesis</h3>
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/public-domain-images-free-stock-photos-woman-earth-globe-white-short-outdoors-water-reflection.jpg" alt="The_world" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/public-domain-images-free-stock-photos-woman-earth-globe-white-short-outdoors-water-reflection.jpg" alt="The_world" />
 <blockquote>
 <blockquote>“Well, if it can be thought, it can be done, a problem can be overcome,” ― E.A. Bucchianeri, Brushstrokes of a Gadfly</blockquote>
 </blockquote>
@@ -58,11 +58,11 @@ Tiffany</blockquote>
 </blockquote>
 Her response? <em>Unexpectedly phenomenal</em>.
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/IMG_0369.png" alt="Prof" width="528" height="939" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/IMG_0369.png" alt="Prof" width="528" height="939" />
 <h3>Even Better News</h3>
 We had some back and forth and then she sent me this email:
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/IMG_0380.png" alt="Mentor!" width="527" height="937" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/IMG_0380.png" alt="Mentor!" width="527" height="937" />
 
 She wants to mentor me, yall. And this is a new beginning and a new era for my CS journey.
 
@@ -139,7 +139,7 @@ return letter1;
 ```
 
 
-<h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg" alt="CS_classes" /></h2>
+<h2><img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg" alt="CS_classes" /></h2>
 <blockquote>
 <blockquote>“People are always blaming their circumstances for what they are. I don’t believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and if they can’t find them, make them.” ― George Bernard Shaw, <em>Mrs. Warren’s Profession</em></blockquote>
 </blockquote>
@@ -149,7 +149,7 @@ So about the Computer Science class.
 
 It was easy at first. Super easy. And then…it slammed me in the face like a bag of bricks swung at my head. I got really good grades on my first two projects, an A and B. But we only built pieces of programs. And then the 3rd project.
 <h3>Project 3, My Nemesis</h3>
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/public-domain-images-free-stock-photos-woman-earth-globe-white-short-outdoors-water-reflection.jpg" alt="The_world" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/public-domain-images-free-stock-photos-woman-earth-globe-white-short-outdoors-water-reflection.jpg" alt="The_world" />
 <blockquote>
 <blockquote>“Well, if it can be thought, it can be done, a problem can be overcome,” ― E.A. Bucchianeri, Brushstrokes of a Gadfly</blockquote>
 </blockquote>
@@ -177,11 +177,11 @@ Tiffany</blockquote>
 </blockquote>
 Her response? <em>Unexpectedly phenomenal</em>.
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/IMG_0369.png" alt="Prof" width="528" height="939" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/IMG_0369.png" alt="Prof" width="528" height="939" />
 <h3>Even Better News</h3>
 We had some back and forth and then she sent me this email:
 
-<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/IMG_0380.png" alt="Mentor!" width="527" height="937" />
+<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/12/IMG_0380.png" alt="Mentor!" width="527" height="937" />
 
 She wants to mentor me, yall. And this is a new beginning and a new era for my CS journey.
 

@@ -18,7 +18,7 @@ categories:
 ---
 <h1>Alice First Look</h1>
 
-<img src="http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2628.jpg" alt="Alice Interface" />
+<img src="https://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2628.jpg" alt="Alice Interface" />
 
 
 <p>So, I started reading my Programming with Alice textbook and I am really getting into it. The picture up top is a screenshot of the Mac interface. It is the older version and it looks it.</p>
@@ -29,14 +29,14 @@ categories:
 
 <p>The text offered some insights on 2D and 3D modeling and what and where things were/are. I then started playing around with the interface, ignoring the text altogether:</p>
 
-<img src="http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2631.jpg" alt="In the Name of God_Alice _UI" />
+<img src="https://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2631.jpg" alt="In the Name of God_Alice _UI" />
 
 
 <p>I added a female scientist and a male scientist but of course, the female will be my lead. I also added a ship and a probe.</p>
 
 <p>Here is the quad view:</p>
 
-<img src="http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2632.jpg" alt="Quad View" />
+<img src="https://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2632.jpg" alt="Quad View" />
 
 
 <p>The program is rich with things I can do. I click on an object and can resize it, move different parts of the ship, or the bodies, I can rotate them, tell them what to say and do, adjust the camera angle. What I am a little concerned about is the natural language part of learning the commands&#8211; no technical programmers speak and you can&#8217;t really write a bug. I guess since this is just to whet the appetite of would-be programmers it&#8217;s okay.</p>

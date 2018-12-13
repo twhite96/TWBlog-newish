@@ -15,7 +15,7 @@ tags:
 categories:
   - Daily Progress
 ---
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-12-17.55.12.png" alt="Day_5" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-12-17.55.12.png" alt="Day_5" />
 
 We went over more of the same but learned some new methods and event handlers.
 

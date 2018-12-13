@@ -19,7 +19,7 @@ categories:
 ---
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
 
 The “I AM BUILD!” is a reference to Pittsburgh’s beloved hockey star Geno Malkin (Evgeni Malkin from Russia). He says sometimes, “Geno is score”, or something like that.
 
@@ -27,14 +27,14 @@ Running through ruby-monday on <a href="https://codenewbie.typeform.com/to/uwsWl
 
 Show Notes:
 
-<a href="http://meta.stackexchange.com/questions/66377/what-is-the-xy-problem">XY Problem</a>
+<a href="https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem">XY Problem</a>
 
-<a href="http://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
-
-
+<a href="https://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
 
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
+
+
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
 
 The “I AM BUILD!” is a reference to Pittsburgh’s beloved hockey star Geno Malkin (Evgeni Malkin from Russia). He says sometimes, “Geno is score”, or something like that.
 
@@ -42,12 +42,12 @@ Running through ruby-monday on <a href="https://codenewbie.typeform.com/to/uwsWl
 
 Show Notes:
 
-<a href="http://meta.stackexchange.com/questions/66377/what-is-the-xy-problem">XY Problem</a>
+<a href="https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem">XY Problem</a>
 
-<a href="http://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
-
-
+<a href="https://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
 
 
 
-<a href="http://heroku.com">Heroku</a>
+
+
+<a href="https://heroku.com">Heroku</a>

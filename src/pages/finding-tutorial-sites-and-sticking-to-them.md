@@ -16,7 +16,7 @@ tags:
 categories:
   - Uncategorized
 ---
-<img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/04/wpid-codecademy-logo.png" alt="Codecademy logo" width="401" height="401" />
+<img class=" alignright" src="https://helloburgh.me/wp-content/uploads/2015/04/wpid-codecademy-logo.png" alt="Codecademy logo" width="401" height="401" />
 
 <em>There are so many great sites</em>. I am on The Odin Project, Codecademy, and Lynda.com. To be fair, my library offers free Lynda subscriptions for all cardholders and soon, being a Pitt student means I get Lynda.com as a benefit which <strong>rocks</strong> because I love their tutorials.
 

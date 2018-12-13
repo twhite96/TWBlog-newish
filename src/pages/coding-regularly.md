@@ -22,7 +22,7 @@ It was only two days but those two days cost me– I would be out late the first
 
 The consistency I was having got shattered. Of course I loved every minute I got to spend with my best-friend, taking in Pittsburgh’s many good eateries.
 
-[caption id="" align="aligncenter" width="479"]<img class="" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-IMG_0413.jpg" alt="Primmanis" width="479" height="391" /> Primanti Bro's Sandwich. Fries, vinegar based slaw, meat, cheese and tomatoes. Surprisingly delicious.[/caption]
+[caption id="" align="aligncenter" width="479"]<img class="" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-IMG_0413.jpg" alt="Primmanis" width="479" height="391" /> Primanti Bro's Sandwich. Fries, vinegar based slaw, meat, cheese and tomatoes. Surprisingly delicious.[/caption]
 
 But I neglected basic things like rest, exercise, and proper eating. You don’t think those things can plague you, you know the whole brogrammer stereotype of eating pizza and drinking Mt. Dew well into the early morning, doing nothing but coding. That is not a healthy thing to do for anyone of any age. You can’t really “do good work” when you’re half-dead and mirror the guy in Green Day’s Brainstew.
 
@@ -37,7 +37,7 @@ It was only two days but those two days cost me– I would be out late the first
 
 The consistency I was having got shattered. Of course I loved every minute I got to spend with my best-friend, taking in Pittsburgh’s many good eateries.
 
-[caption id="" align="aligncenter" width="479"]<img class="" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-IMG_0413.jpg" alt="Primmanis" width="479" height="391" /> Primanti Bro's Sandwich. Fries, vinegar based slaw, meat, cheese and tomatoes. Surprisingly delicious.[/caption]
+[caption id="" align="aligncenter" width="479"]<img class="" src="https://helloburgh.me/wp-content/uploads/2015/05/wpid-IMG_0413.jpg" alt="Primmanis" width="479" height="391" /> Primanti Bro's Sandwich. Fries, vinegar based slaw, meat, cheese and tomatoes. Surprisingly delicious.[/caption]
 
 But I neglected basic things like rest, exercise, and proper eating. You don’t think those things can plague you, you know the whole brogrammer stereotype of eating pizza and drinking Mt. Dew well into the early morning, doing nothing but coding. That is not a healthy thing to do for anyone of any age. You can’t really “do good work” when you’re half-dead and mirror the guy in Green Day’s Brainstew.
 

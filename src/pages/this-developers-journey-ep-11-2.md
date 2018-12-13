@@ -18,23 +18,23 @@ categories:
 ---
 
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
 
 This Developer's Journey ep.11 is out.
 
 ## Show Notes
 
-[Yeoman Info from an earlier post](http://helloburgh.me/2015/06/25/yeoman-and-javascript-etc/)
+[Yeoman Info from an earlier post](https://helloburgh.me/2015/06/25/yeoman-and-javascript-etc/)
 
-[What is boilerplate code?](http://stackoverflow.com/questions/3992199/what-is-boilerplate-code)
+[What is boilerplate code?](https://stackoverflow.com/questions/3992199/what-is-boilerplate-code)
 
-[Arguments about boilerplates](http://programmers.stackexchange.com/questions/148602/a-defense-for-boilerplate)
+[Arguments about boilerplates](https://programmers.stackexchange.com/questions/148602/a-defense-for-boilerplate)
 
 ## Books
 
-[YDKJS Books](http://www.oreilly.com/pub/au/4853)
+[YDKJS Books](https://www.oreilly.com/pub/au/4853)
 
-[Soft Skills by John Sonmez](http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+[Soft Skills by John Sonmez](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
 ## Picks
 
@@ -43,23 +43,23 @@ Yeoman
 
 
 
-<a href="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
+<a href="https://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
 
 This Developer's Journey ep.11 is out.
 
 ## Show Notes
 
-[Yeoman Info from an earlier post](http://helloburgh.me/2015/06/25/yeoman-and-javascript-etc/)
+[Yeoman Info from an earlier post](https://helloburgh.me/2015/06/25/yeoman-and-javascript-etc/)
 
-[What is boilerplate code?](http://stackoverflow.com/questions/3992199/what-is-boilerplate-code)
+[What is boilerplate code?](https://stackoverflow.com/questions/3992199/what-is-boilerplate-code)
 
-[Arguments about boilerplates](http://programmers.stackexchange.com/questions/148602/a-defense-for-boilerplate)
+[Arguments about boilerplates](https://programmers.stackexchange.com/questions/148602/a-defense-for-boilerplate)
 
 ## Books
 
-[YDKJS Books](http://www.oreilly.com/pub/au/4853)
+[YDKJS Books](https://www.oreilly.com/pub/au/4853)
 
-[Soft Skills by John Sonmez](http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+[Soft Skills by John Sonmez](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
 ## Picks
 
@@ -69,4 +69,4 @@ Yeoman
 
 
 
-[Music](http://applemusic.tumblr.com/)
+[Music](https://applemusic.tumblr.com/)

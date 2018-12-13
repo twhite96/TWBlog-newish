@@ -109,4 +109,4 @@ Took me a bit to get that I was assigning a prompt to variables. I didn’t get 
 
 And here is another gif of the result:
 
-<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/04/wpid-python_argv.gif" alt="python_gif_2" width="790" height="483" />
+<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/04/wpid-python_argv.gif" alt="python_gif_2" width="790" height="483" />

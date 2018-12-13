@@ -12,11 +12,11 @@ tags: uncategorized
 categories:
   - Uncategorized
 ---
-<a href="http://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917.jpg"><img class=" size-medium wp-image-216 alignright" src="http://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917-300x169.jpg" alt="51a5f6c0ae6e280917" width="300" height="169" /></a>Check out my podcast over on my Jekyll blog!
+<a href="https://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917.jpg"><img class=" size-medium wp-image-216 alignright" src="https://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917-300x169.jpg" alt="51a5f6c0ae6e280917" width="300" height="169" /></a>Check out my podcast over on my Jekyll blog!
 
 So far I've uploaded 30 minutes roughly of audio. Plan on having interviews and more so stay tuned.
 
-<a href="http://twhite96.github.io/episode-3-is-live-with-some-oddness/">My Coding Journey ep.3</a>
+<a href="https://twhite96.github.io/episode-3-is-live-with-some-oddness/">My Coding Journey ep.3</a>
 
 If you don't want to go to the site directly, you can check out my episode here:
 
