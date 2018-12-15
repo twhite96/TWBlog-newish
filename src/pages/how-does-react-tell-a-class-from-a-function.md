@@ -558,7 +558,7 @@ But if you’re also curious... it’s nice to know how it works.
 
 ### Sign Up for the Newsletter. No spam. I hate that, too.
 
-<iframe scrolling="no" width="600 !important" height="220px" style="border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
+<iframe scrolling="no" width="100% !important" height="220px" style="border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
 
 ---
 <a href="https://www.buymeacoffee.com/twhitedev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
