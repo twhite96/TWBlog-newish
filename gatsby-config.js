@@ -73,7 +73,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Tiffany R. White Blog`,
+        name: `tiff's Gatsby blog`,
         short_name: `TRW Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
