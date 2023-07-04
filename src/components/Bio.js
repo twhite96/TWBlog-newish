@@ -4,7 +4,7 @@ import React from 'react'
 import 'typeface-pt-sans'
 import 'typeface-open-sans'
 
-import profilePic from './profile3.png'
+import profilePic from './yeow.jpg'
 import { rhythm } from '../utils/typography'
 
 class Bio extends React.Component {
