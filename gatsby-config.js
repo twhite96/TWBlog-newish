@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Tiffany R. White Blog',
-    author: 'Tiffany White',
-    description: 'Technical Blog by Tiffany White',
+    title: 'tiff's Gatsby Blog',
+    author: 'tiff',
+    description: 'tiff',
     siteUrl: 'https://tiffanywhite.tech',
     social: {
-      twitter: '@TiffanyW_412'
+      twitter: 'https://www.youtube.com/watch?v=sXwaRjU7Tj0'
     }
   },
   pathPrefix: '/',
